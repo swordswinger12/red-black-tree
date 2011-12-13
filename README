@@ -1,0 +1,7 @@
+This is a simple, straightforward C implementation of red-black trees a la CLRS. 
+
+To compile, type "make". 
+
+To run, type "./redblack <file>", where <file> is a file of ints with one int per line.
+
+A sample file, "test.txt", is provided. 
